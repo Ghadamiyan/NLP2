@@ -1,0 +1,36 @@
+Împărțirea sarcinilor intre membrii echipei:
+
+
+
+Ghadamiyan Lida 507 AI:
+- Formarea datasetului din subtitrari
+- Text preprocessing and Data visualization 
+- Antrenat modelul pe toate datele
+- Bleu score fazele incipiente ale proiectului 
+- Redactat documentația
+
+
+Neferu Ana-Maria 505 BDTS:
+- A găsit subtitrarile si s-a ocupat sa fie sincronizate
+- Antrenat modelul pe datele cu filme (extremely low resources) 
+- Documentatie
+- Implementat mai multe metrici (Rouge, Meteor) 
+- Data visualization 
+
+
+Oanea Smit Andrei 507 AI:
+- Creat si cercetat dataset
+- Cercetat API-uri de translation disponibile in Python
+- Cercetat rezultate pe Azure Api
+- Documentatie 
+- Antrenat local modele
+- Prezentarea
+ 
+
+Ouatu Bogdan 507 AI:
+- Explorat literatura
+- Creat dataset din corpora
+- EDA dataset + curatare + selectie
+- Documentatie 
+- Coordonat efort antrenare modele
+- Prezentarea
